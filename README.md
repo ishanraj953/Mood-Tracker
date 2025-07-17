@@ -1,4 +1,4 @@
 # Hello
 This is me Ishan
-# Sample Project 
-This is my Git testing sample project
+# Mental Health Tracker
+This ML Project is based on the mental health tracking. It gives output according to your mood. 
